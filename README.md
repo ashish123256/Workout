@@ -1,7 +1,4 @@
-# TRANSACTION DASHBOARD
-
-# Website Link - (https://transactionp.onrender.com/)
-
+# Workout
 
 # Tech Stack 
 
@@ -28,11 +25,12 @@ Start the server
 
 **For server** - `npm i`
 
-**For client** - `cd client` ` npm i`
+**For client** - `cd client` ` npm i` 
+VITE_FIREBASE_API_KEY=
 
 **Essential Variables**
 MONGO_DB =,
-PORT=,
+
 
 ## Authors
 - [Ashish Babu Rao]
