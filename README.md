@@ -30,6 +30,7 @@ VITE_FIREBASE_API_KEY=
 
 **Essential Variables**
 MONGO_DB =,
+JWT_SECRET=
 
 
 ## Authors
